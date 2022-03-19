@@ -1,0 +1,27 @@
+ul#navbar {
+  list-style-type: none;
+
+  margin: 0;
+
+  padding: 0;
+
+  overflow: hidden;
+  background-color: antiquewhite;
+}
+ul#navbar > li {
+  float: left;
+}
+ul#navbar > li a {
+  display: block;
+  padding: 12px 14px;
+  color: crimson;
+  text-decoration: none;
+}
+ul#navbar > li a:hover {
+  color: indigo;
+}
+img#img1 {
+  width: 600px;
+  height: 250px;
+  padding: 60px;
+}
